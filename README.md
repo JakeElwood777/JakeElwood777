@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JakeElwood777
-- 👀 I’m interested in computer science
+- 👀 I’m interested in computer science and music
 - 🌱 I’m still learning c programming language 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
